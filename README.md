@@ -26,4 +26,4 @@ Make sure you have a code editor installed, such as VSCode, and a web browser.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/Thashneem-Fathima/youtube-clone.git
