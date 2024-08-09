@@ -22,8 +22,4 @@ To get a local copy up and running, follow these simple steps:
 
 Make sure you have a code editor installed, such as VSCode, and a web browser.
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Thashneem-Fathima/youtube-clone.git
